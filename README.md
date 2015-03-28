@@ -1,0 +1,1 @@
+This is was a Jquery calculator tutorial from codecademy. I worked through the tutorial then pull the code out and started changing to functionality a litle bit to make it act more like what I think a calculatore should do. I also tried to clean up the code a little bit. 
